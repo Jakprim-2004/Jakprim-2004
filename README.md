@@ -9,7 +9,7 @@ A dedicated Computer Science student at Kasetsart University with a passion for 
   - Expected Graduation: 2026
 
 ## 🛠️ Technical Skills
-- **Programming Languages:** JavaScript
+- **Programming Languages:** JavaScript And React 
 - **Development Tools:** Git, VS Code And pgAdmin 4
 - **Focus Area:** Back-End Development
 
