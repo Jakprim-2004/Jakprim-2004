@@ -10,7 +10,7 @@ A dedicated Computer Science student at Kasetsart University with a passion for 
 
 ## 🛠️ Technical Skills
 - **Programming Languages:** JavaScript And React 
-- **Development Tools:** Git, VS Code And pgAdmin 4
+- **Development Tools:** Git, VS Code 
 - **Focus Area:** Back-End Development
 
 ## 💻 Project Experience
