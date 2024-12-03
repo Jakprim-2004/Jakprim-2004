@@ -27,6 +27,5 @@ A dedicated Computer Science student at Kasetsart University with a passion for 
 
 ## 💪 Strengths
 - Strong problem-solving abilities
-- Quick learner
 - Team collaboration
 - Attention to detail
