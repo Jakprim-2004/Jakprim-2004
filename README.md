@@ -1,4 +1,4 @@
-# 💼 Resume of Kaimuk Jakprim
+# 💼 Resume of Kaimuk 
 
 ## 👤 Professional Summary
 A dedicated Computer Science student at Kasetsart University with a passion for Back-End Development. Seeking opportunities to apply and enhance my programming skills through practical experience.
