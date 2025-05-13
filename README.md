@@ -26,6 +26,4 @@ A dedicated Computer Science student at Kasetsart University with a passion for 
 - LinkedIn: [Kaimuk Jakprim](https://www.linkedin.com/in/kaimuk-jakprim-042aa2325/)
 
 ## 💪 Strengths
-- Strong problem-solving abilities
-- Team collaboration
-- Attention to detail
+- Ability to work well in a team and collaborate effectively with others
