@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaimuk</h1>
 
 <p align="center">
-  <img src="https://scontent.fbkk5-7.fna.fbcdn.net/v/t39.30808-1/466668494_1655964335347368_8400512706779187920_n.jpg?stp=cp6_dst-jpg_s200x200_tt6&_nc_cat=108&ccb=1-7&_nc_sid=1d2534&_nc_ohc=LVUX-MkxBXcQ7kNvwEdM4x9&_nc_oc=AdnvL1bP08hq2EqsARiwILWuIHMWXXG6KNhlrim9EfFA-PtbF_I5dpE7BYoYRg_adLI&_nc_zt=24&_nc_ht=scontent.fbkk5-7.fna&_nc_gid=vgOVDdGsmew6PJ9qfww0Vw&oh=00_AfRjkqM49dxO6WkOSWMVQ_yeVw4IvdK-m4w1ov4G7uH0EQ&oe=687D888B" width="180" style="border-radius: 50%;" alt="kaimuk profile"/>
+  <img src="https://scontent.fbkk5-7.fna.fbcdn.net/v/t39.30808-1/466668494_1655964335347368_8400512706779187920_n.jpg?stp=cp6_dst-jpg_s200x200_tt6&_nc_cat=108&ccb=1-7&_nc_sid=1d2534&_nc_ohc=LVUX-MkxBXcQ7kNvwEdM4x9&_nc_oc=AdnvL1bP08hq2EqsARiwILWuIHMWXXG6KNhlrim9EfFA-PtbF_I5dpE7BYoYRg_adLI&_nc_zt=24&_nc_ht=scontent.fbkk5-7.fna&_nc_gid=vgOVDdGsmew6PJ9qfww0Vw&oh=00_AfRjkqM49dxO6WkOSWMVQ_yeVw4IvdK-m4w1ov4G7uH0EQ&oe=687D888B(https://www.facebook.com/photo/?fbid=1655964332014035&set=a.114918449451972)" width="180" style="border-radius: 50%;" alt="kaimuk profile"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakprim-2004&label=Profile%20views&color=0e75b6&style=flat" alt="jakprim-2004" /> </p>
