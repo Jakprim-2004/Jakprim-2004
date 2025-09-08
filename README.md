@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaimuk</h1>
 
 <p align="center">
-<img src="https://postimg.cc/75jQnG5G" width="200px">
+<img src="https://i.postimg.cc/75jQnG5G/B7-FBC988-3993-4-F32-B1-C7-4-E4-FC9-BF6-E0-F.jpg" width="200px">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakprim-2004&label=Profile%20views&color=0e75b6&style=flat" alt="jakprim-2004" /> </p>
