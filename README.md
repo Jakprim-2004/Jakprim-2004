@@ -12,12 +12,6 @@
 - 💻 Skilled in JavaScript | React | Node.js | Express  
 - 🚀 Highlight project: [SmartPOS](https://www.smartpos.software/) ระบบ point of sale สำหรับร้านค้า
 
-## 🌐 Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/kaimuk-jakprim-042aa2325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons[...]
-<a href="https://fb.com/kaimuk.json" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" [...]
-</p>
 
 ## 🧑‍💻 Languages and Tools
 
