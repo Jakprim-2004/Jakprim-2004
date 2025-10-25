@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaimuk</h1>
 
 <p align="center">
-<img src="https://scontent.fnak4-1.fna.fbcdn.net/v/t39.30808-6/558895948_1912173806393085_1577128877018244254_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=-9joIPCd780Q7kNvwHYl_RZ&_nc_oc=Adn8-LCt86YLcl8cykyz6dNdknVQ_tVCQA2CA6uY-OGUg5WAvmKEBdnQk6CO6YnAZGA&_nc_zt=23&_nc_ht=scontent.fnak4-1.fna&_nc_gid=MiPRoOXHJ4yMvZBy6spKMA&oh=00_AfeDhIpcfgSlp0CTGhUc0m_75VSZEsqdc92DR-1wY6tDbA&oe=69025EAA" width="150px" height="150px" />
+<img src="https://scontent.fnak4-1.fna.fbcdn.net/v/t39.30808-6/558895948_1912173806393085_1577128877018244254_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=-9joIPCd780Q7kNvwHYl_RZ&_nc_oc=Adn8-LCt86[...]
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakprim-2004&label=Profile%20views&color=0e75b6&style=flat" alt="jakprim-2004" /> </p>
@@ -44,3 +44,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakprim-2004&show_icons=true&locale=en&layout=compact" alt="jakprim-2004" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakprim-2004&show_icons=true&locale=en" alt="jakprim-2004" /></p>
+
+## 📫 Contact / ติดต่อ
+
+- Email: [caniyaya21@gmail.com](mailto:caniyaya21@gmail.com)  
+- Line: Min0ru21  
+- Facebook: https://www.facebook.com/kaimuk.json/
