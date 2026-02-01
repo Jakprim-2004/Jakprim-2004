@@ -45,8 +45,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakprim-2004&show_icons=true&locale=en" alt="jakprim-2004" /></p>
 
-## 📫 Contact / ติดต่อ
 
-- Email: [caniyaya21@gmail.com](mailto:caniyaya21@gmail.com)  
-- Line: Min0ru21  
-- Facebook: https://www.facebook.com/kaimuk.json/
+
+
