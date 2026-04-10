@@ -1,1 +1,1 @@
-![Gigachad Hello World](https://jakprim2004.github.io/repo-name/images/gigachad.gif)
+![Gigachad Hello World](https://jakprim-2004.github.io/repo-name/images/gigachad.gif)
