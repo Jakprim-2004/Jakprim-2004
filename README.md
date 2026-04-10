@@ -10,7 +10,7 @@
 
 - 🎓 4th year student at Kasetsart University  
 - 💻 Skilled in JavaScript | React | Node.js | Express  
-- 🚀 Highlight project: [SmartPOS](https://smart-pos-frontend-gamma.vercel.app/) ระบบ point of sale สำหรับร้านค้า
+- 🚀 Highlight project: [SmartPOS](https://smart-pos-frontend-gamma.vercel.app/login) ระบบ point of sale สำหรับร้านค้า
 
 
 ## 🧑‍💻 Languages and Tools
