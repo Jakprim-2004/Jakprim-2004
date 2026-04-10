@@ -42,9 +42,6 @@
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakprim-2004&show_icons=true&locale=en&layout=compact" alt="jakprim-2004" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakprim-2004&show_icons=true&locale=en" alt="jakprim-2004" /></p>
-
-
 
 
