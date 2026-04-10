@@ -1,1 +1,1 @@
-![Gigachad Hello World](https://jakprim-2004.github.io/repo-name/images/gigachad.gif)
+![Gigachad Hello World](https://media.tenor.com/XfrqyR_-jzIAAAAC/anime-goku.gif)
