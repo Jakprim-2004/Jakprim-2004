@@ -1,1 +1,1 @@
-![Gigachad Hello World](https://media.tenor.com/XfrqyR_-jzIAAAAC/anime-goku.gif)
+![White Cat Dance](https://media.tenor.com/79UAnLpZz4gAAAAC/cool-fun.gif)
